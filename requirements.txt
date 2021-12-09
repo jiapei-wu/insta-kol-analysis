@@ -1,0 +1,16 @@
+cryptography==35.0.0
+flake8==3.8.3
+Flask==1.1.2
+pandas==1.0.5
+scipy==1.5.0
+SQLAlchemy==1.4.25
+psycopg2-binary==2.9.0
+instagram-scraper==1.10.2
+PyYAML==6.0
+black==21.10b0
+dash==2.0.0 
+dash-bootstrap-components==1.0.0 
+scikit-learn==0.24.2
+gunicorn==20.1.0
+emoji==1.6.1
+vaderSentiment==3.3.2

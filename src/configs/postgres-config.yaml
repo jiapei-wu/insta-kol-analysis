@@ -1,0 +1,6 @@
+dbname: d5en539020tqam
+host: ec2-44-194-116-221.compute-1.amazonaws.com
+port: 5432
+user: sihlfsursqwios
+password: a0f87aa7ce955332550f74da9c29bff5c41d6939093503a887b17e794ba15fe0
+sslmode: require
