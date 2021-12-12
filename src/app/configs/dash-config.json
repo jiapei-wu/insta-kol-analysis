@@ -1,3 +1,5 @@
 {
-    "profile_data_path": "src/app/data/profile.csv"
+    "profile_data_path": "src/app/data/profiles.csv",
+    "post_data_path": "src/app/data/posts.csv",
+    "comment_data_path": "src/app/data/comments.csv"
 }

@@ -1,6 +1,11 @@
 .content-style {
-    margin-left: 125px;
-    margin-right: 125px;
-    padding: 100px 50px 50px 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px 50px 50px 50px;
     /* color: #AE8F6F */
+}
+#project-intro {
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
