@@ -162,7 +162,7 @@ def render_page_content(pathname):
                                     The porject is built under Docker and Docker compose for development phase. Then
                                     all codes are packaged up by Docker Images and push to Docker Registery in Heroku.
 
-                                    See my repository for this project: [instagram-kol-analysis](https://github.com/jiapei-wu/instagram-kol-analysis)
+                                    See my repository for this project: [instagram-kol-analysis](https://github.com/jiapei-wu/insta-kol-analysis)
 
                                     NOTE: Due to the sensitivity of instagram scraping, the project is solely for personal learning purpose.
                                     It does not have any business or profitable purpose. Hence, I keep all right of the code, 
