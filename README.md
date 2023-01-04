@@ -4,9 +4,6 @@
 
 This is a project that seeks to analyze on several Instagram's KOls with Dash visualization as website. I picked 7 "Parent-child" KOLs as reference and captures their profile, posts, and comments. The purpose it to find potential success factors or characteristics to become a famous KOL. The term famous here means KOL with more averge likes per followers (followers / average likes on recent 10 posts). I wrapped up all the files by Docker image and used Heorku Docker Registry to deploy the App.
 
-## App Link
-
-[**https://wjp-dash-app.herokuapp.com/**](https://wjp-dash-app.herokuapp.com/)
 
 ## Prequisities
 
